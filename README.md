@@ -1,5 +1,7 @@
 # AEO Evidence Auditor
 
+**Live demo: [https://aeo-evidence-auditor.onrender.com](https://aeo-evidence-auditor.onrender.com/)** (demonstration mode; the first load can take about a minute while the free server wakes up)
+
 A multi-agent SEO and **answer-engine optimisation (AEO)** audit in which every recommendation must
 cite evidence that a separate verifier checks against the crawled pages. Nothing reaches the report
 until a person approves it.
@@ -10,7 +12,7 @@ until a person approves it.
 |---|---|
 | **Status** | Complete. Verified locally and live (see [section 13](#13-github-repository-and-live-url)) |
 | **GitHub** | https://github.com/vadivel-developer/aeo-evidence-auditor |
-| **Live demo** | https://aeo-evidence-auditor.onrender.com/ (demonstration mode) |
+| **Live demo** | [aeo-evidence-auditor.onrender.com](https://aeo-evidence-auditor.onrender.com/) (demonstration mode) |
 | **Runs without paid APIs** | Yes. Demonstration mode needs no model; the model mode uses a free local model through Ollama |
 
 ---
