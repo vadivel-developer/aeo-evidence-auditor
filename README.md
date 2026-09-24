@@ -272,7 +272,7 @@ independent verifier is what stops those fabrications reaching a client. With th
 
 ## 13. GitHub repository and live URL
 
-* GitHub repository: **https://github.com/vadivel-developer/aeo-evidence-auditor** (public). Portfolio index: https://github.com/vadivel-developer/ai-engineering-portfolio
+* GitHub repository: **https://github.com/vadivel-developer/aeo-evidence-auditor** (public)
 * Live URL: **https://aeo-evidence-auditor.onrender.com/** (Render free web service, deployed from `render.yaml`).
   The public demo runs in the **demonstration mode** (deterministic rules, no language model), labelled on
   every screen, with live crawling of other sites switched off. Free Render services sleep when idle,
